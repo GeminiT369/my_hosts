@@ -1,1 +1,6 @@
-//
+#dns反劫持：
+bogus-nxdomain=8.8.8.8
+#dns反污染：
+servicer=/talk.google.com/8.8.4.4
+#dns泛域名解析:
+address=/.google.com/127.0.0.1
